@@ -39,9 +39,20 @@ The steps followed in the analysis are as follows:
 
 6. **TOPSIS Score Calculation:**  
    The relative closeness of each alternative to the ideal solution is computed, resulting in the TOPSIS score:
-   \[
-   \text{TOPSIS Score} = \frac{D_{\text{negative}}}{D_{\text{positive}} + D_{\text{negative}}}
-   \]
+   TOPSIS Score= 
+D 
+positive
+​
+ +D 
+negative
+​
+ 
+D 
+negative
+​
+ 
+​
+
    
 7. **Ranking:**  
    Models are ranked based on the TOPSIS score (the higher the score, the better the performance).
